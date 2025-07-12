@@ -1,4 +1,4 @@
-// Carousel functionality 
+// Carousel functionality
 let currentSlide = 0;
 const totalSlides = 3;
 
